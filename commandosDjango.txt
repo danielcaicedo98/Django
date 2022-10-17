@@ -1,0 +1,9 @@
+CREAR PROYECTO DJANGO
+ >django-admin startproject  
+
+CREAR BD SQL3
+ >python manage.py migrate
+
+CORRER SERVIDOR DJANGO
+ >python manage.py runserver
+
